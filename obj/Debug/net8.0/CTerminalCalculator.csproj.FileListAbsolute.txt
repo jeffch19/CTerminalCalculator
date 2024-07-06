@@ -1,0 +1,15 @@
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/bin/Debug/net8.0/CTerminalCalculator
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/bin/Debug/net8.0/CTerminalCalculator.deps.json
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/bin/Debug/net8.0/CTerminalCalculator.runtimeconfig.json
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/bin/Debug/net8.0/CTerminalCalculator.dll
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/bin/Debug/net8.0/CTerminalCalculator.pdb
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/CTerminalCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/CTerminalCalculator.AssemblyInfoInputs.cache
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/CTerminalCalculator.AssemblyInfo.cs
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/CTerminalCalculator.csproj.CoreCompileInputs.cache
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/CTerminalCalculator.sourcelink.json
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/CTerminalCalculator.dll
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/refint/CTerminalCalculator.dll
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/CTerminalCalculator.pdb
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/CTerminalCalculator.genruntimeconfig.cache
+/Users/jeffreycummings/Desktop/bootcamp/CTerminalCalculator/obj/Debug/net8.0/ref/CTerminalCalculator.dll
